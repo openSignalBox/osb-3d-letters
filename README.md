@@ -1,6 +1,6 @@
 # osb-3d-letters
 
-3D files of capital letters in a prototypical signal box name board font.
+3D files of capital letters in a prototypical signal box nameboard font.
 
 These files, created and kindly shared by Maurice Gifford, are based on a font drawn by Owen Stratford.
 
